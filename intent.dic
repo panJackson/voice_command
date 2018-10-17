@@ -1,0 +1,5 @@
+#gb18030
+ai.dueros.device_interface.thirdparty.xstv.smart_tv Collect  ’≤ÿ
+ai.dueros.device_interface.thirdparty.xstv.smart_tv Delete [D:delete][device][W:0-2]
+ai.dueros.device_interface.thirdparty.xstv.smart_tv SwitchDesktop [D:open][mode]
+ai.dueros.device_interface.thirdparty.xstv.smart_tv SwitchDesktop [mode]
